@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Faruk Pınar 
-- 👀 I’m interested in Mobile App Development , Web Development
-- 🌱 I’m currently learning .NET Core , Python
+- 👀 I’m interested in Full Stack Development
+- 🌱 I’m currently learning C# , .NET
 - 📫 How to reach me farukpinar97@gmail.com
 
 <!---
